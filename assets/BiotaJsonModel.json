@@ -1,0 +1,165 @@
+{
+    "Name": {
+        "english": "Dadasaheb(Ravindra) Kshirsagar",
+        "marathi": "दादासाहेब(रवींद्र) क्षीरसागर"
+    },
+    "JobProfile": {
+        "english": "Software Engineer",
+        "marathi": "सोफ्टवेअर अभियंता"
+    },
+    "Address": {
+        "english": "At/ Post - Sawargaon, Tal - Ashti, Dist-Beed",
+        "marathi": "रा. सावरगाव, ता.-आष्टी, जि-बीड"
+    },
+    "Facebook": null,
+    "Instagram": null,
+    "Email": "ravikshirsagar4141@gmail.com",
+    "CompanyLink": "www.ncs.com.sg",
+    "CompanyExperience": "",
+    "CompanyName": {
+        "english": "NCSI (India) Technology pte.ltd",
+        "marathi": "एनसीएसआय (इंडिया) टेक्नॉलॉजी प्रा.लि."
+    },
+    "Hobby": {
+        "english": null,
+        "marathi": null
+    },
+    "PersonalInformation": {
+        "FullName": {
+            "english": "Dadasaheb(Ravindra) Somnath Kshirsagar",
+            "marathi": "दादासाहेब(रवींद्र) सोमनाथ क्षीरसागर"
+        },
+        "DateOfBirth": {
+            "english": "09 May 1996",
+            "marathi": "09 मे 1996"
+        },
+        "BirthPlace": {
+            "english": null,
+            "marathi": null
+        },
+        "BirthTime": {
+            "english": "10.38 PM",
+            "marathi": "रात्री 10.38 वाजता"
+        },
+        "Color": {
+            "english": null,
+            "marathi": null
+        },
+        "Height": {
+            "english": null,
+            "marathi": null
+        },
+        "BloodGroup": {
+            "english": "B+ve",
+            "marathi": "बी +"
+        },
+        "Gotra": {
+            "english": null,
+            "marathi": null
+        },
+        "Gan": {
+            "english": "Dev",
+            "marathi": "देव"
+        },
+        "Devak": {
+            "english": "Vasnicha vel",
+            "marathi": "वासनिचा वेल"
+        },
+        "Ras": {
+            "english": "Capricorn",
+            "marathi": "मकर"
+        },
+        "Kuldaivat": {
+            "english": null,
+            "marathi": null
+        },
+        "RasName": {
+            "english": "Khemraj",
+            "marathi": "खेमराज"
+        },
+        "Caste": {
+            "english": "Hindu-Nhavi",
+            "marathi": "हिंदू-न्हावी"
+        }
+    },
+    "Qualification": {
+        "Education": {
+            "english": "B.E. Computer Engineering",
+            "marathi": "बी.ई. संगणक अभियांत्रिकी"
+        },
+        "Job": {
+            "english": "Software Engineer",
+            "marathi": "सोफ्टवेअर अभियंता"
+        },
+        "Salary": {
+            "english": null,
+            "marathi": null
+        }
+    },
+    "FamilyInformation": {
+        "GrandfatherName": {
+            "english": "Sarjerao Gopinath Kshirsagar",
+            "marathi": "सर्जेराव गोपीनाथ क्षीरसागर"
+        },
+        "GrandmotherName": {
+            "english": "Laxmibai Sarjerao Kshirsagar",
+            "marathi": "लक्ष्मीबाई सर्जेराव क्षीरसागर"
+        },
+        "FatherName": {
+            "english": "Somnath Sarjerao Kshirsagar",
+            "marathi": "सोमनाथ सर्जेराव क्षीरसागर"
+        },
+        "MotherName": {
+            "english": "Sharda Somnath Kshirsagar",
+            "marathi": "शारदा सोमनाथ क्षीरसागर"
+        },
+        "SisterName": {
+            "english": "Deepali Ganesh Bhujbal",
+            "marathi": "दीपाली गणेश भुजबळ"
+        },
+        "BrotherName": {
+            "english": null,
+            "marathi": null
+        },
+        "Uncle": {
+            "english": "Ramdas Sarjerao Kshirsagar",
+            "marathi": "रामदास सर्जेराव क्षीरसागर"
+        },
+        "Mama": {
+            "english": "Dattatraya Baburao Bidve, Vijay Baburao Bidve",
+            "marathi": "दत्तात्रय बाबुराव बिडवे, विजय बाबुराव बिडवे"
+        },
+        "Aatya": {
+            "english": "Pushpa Shelke",
+            "marathi": "पुष्पा शेळके"
+        },
+        "Mavshi": {
+            "english": "Tara Rameshwar Shejul",
+            "marathi": "तारा रामेश्वर शेजुळ"
+        },
+        "Relatives": {
+            "english": "Bidve, Shelke, Gailkwad, Raut, Pandit, Waghmare, Shejul",
+            "marathi": "बिडवे, शेळके, गेलकवाड, राऊत, पंडित, वाघमारे, शेजुळ"
+        }
+    },
+    "ContactMe": {
+        "EmailId": {
+            "english": null,
+            "marathi": null
+        },
+        "MobileNo": {
+            "english": "9423637975",
+            "marathi": "9423637975"
+        }
+    },
+    "Photos": {
+        "ProfilePhotoName": "assets/Profile.jpg",
+        "GalleryPhoto": {
+            "Photo1": "assets/G(1).jpg",
+            "Photo2": "assets/G(2).jpg",
+            "Photo3": "assets/G(3).jpg",
+            "Photo4": "assets/G(4).jpg",
+            "Photo5": "assets/G(5).jpg"
+        }
+    }
+}
